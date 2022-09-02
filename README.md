@@ -1,6 +1,1 @@
-
-Task 0 Where am I
-# alx-system_engineering-devops
-I am now a full stack enigneer
-Display the contents list of your current directory
-
+2-bring_me_home
