@@ -1,1 +1,1 @@
-I am now a full stack engineer
+Display the contents list of your current directory
